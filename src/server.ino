@@ -8,8 +8,8 @@ Adafruit_MPU6050 mpu;
 
 
 // Replace with your network credentials
-const char* ssid = "BULL SHIP";
-const char* password = "eribri11";
+const char* ssid = "********";
+const char* password = "*********";
 // Set web server port number to 80
 WiFiServer server(80);
 
